@@ -25,6 +25,7 @@ You cna learn by reading, watching, or doing with the resources below.
 2. **CSS Diner** (https://flukeout.github.io/) - Interactive game/training tool that teaches you almost all the CSS selectors you'll ever need.
 3. **Version Control with Git** (https://www.udacity.com/course/version-control-with-git--ud123) - Free online course with interactive exercises using real repositories and quizzes to teach you the essentials of Git.
 4. **Code Sandbox** (https://codesandbox.io/) - In browser code editor that lets you edit and share code snippets like jsbin, but with extra features letting you prototype code in all the most popular frontend frameworks--React, Vue, Angular, etc.
+5. **Browser Rendering Optimization** (https://www.udacity.com/course/browser-rendering-optimization--ud860) - Free online course with interactive challenges, video, & quizzes teaching you the basics of making your single page web app faster/more performant, best practices, and common sources of slowdown. 
 
 ## Software
 
