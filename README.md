@@ -25,10 +25,11 @@ You cna learn by reading, watching, or doing with the resources below.
 2. **CSS Diner** (https://flukeout.github.io/) - Interactive game/training tool that teaches you almost all the CSS selectors you'll ever need.
 3. **Version Control with Git** (https://www.udacity.com/course/version-control-with-git--ud123) - Free online course with interactive exercises using real repositories and quizzes to teach you the essentials of Git.
 4. **Code Sandbox** (https://codesandbox.io/) - In browser code editor that lets you edit and share code snippets like jsbin, but with extra features letting you prototype code in all the most popular frontend frameworks--React, Vue, Angular, etc.
-5. **Browser Rendering Optimization** (https://www.udacity.com/course/browser-rendering-optimization--ud860) - Free online course with interactive challenges, video, & quizzes teaching you the basics of making your single page web app faster/more performant, best practices, and common sources of slowdown. 
+5. **Browser Rendering Optimization** (https://www.udacity.com/course/browser-rendering-optimization--ud860) - Free online course with interactive challenges, video, & quizzes teaching you the basics of making your single page web app faster/more performant, using dev tools to diagnose problems, best practices, and common sources of slowdown. 
 
 ## Software
 
 1. **Visual Studio Code** (https://code.visualstudio.com/) - Free feature rich IDE that is excellent for web development with many extensions available. Integrated terminal window, keyboard shortcuts, and code navigation tools increase productivity.
 2. **Atom** (https://atom.io/) - Another free modern full featured IDE for web development with many plugins available.
 3. **Oh My Zsh** (https://ohmyz.sh/) - Makes your terminal look super spiffy and way more usable, with git shortcuts included out of the box. Many themes available. Mac/Linux only, though it is possible to use on Windows if you enable WSL [(Windows Subsystem for Linux)](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+4. **React Developer Tools** (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) - Available for Chrome and Firefox, useful browser extension that adds another tab to your browser Dev Tools specifically focused on your React app component structure/state
