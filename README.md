@@ -30,4 +30,4 @@ You cna learn by reading, watching, or doing with the resources below.
 
 1. **Visual Studio Code** (https://code.visualstudio.com/) - Free feature rich IDE that is excellent for web development with many extensions available. Integrated terminal window, keyboard shortcuts, and code navigation tools increase productivity.
 2. **Atom** (https://atom.io/) - Another free modern full featured IDE for web development with many plugins available.
-3. **Oh My Zsh** (https://ohmyz.sh/) - Makes your terminal look super spiffy and way more usable, with git shortcuts included out of the box. Many themes available.
+3. **Oh My Zsh** (https://ohmyz.sh/) - Makes your terminal look super spiffy and way more usable, with git shortcuts included out of the box. Many themes available. Mac/Linux only, though it is possible to use on Windows if you enable WSL [(Windows Subsystem for Linux)](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
