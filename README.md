@@ -11,8 +11,9 @@ You cna learn by reading, watching, or doing with the resources below.
 3. **Javascript To Know For React** (https://kentcdodds.com/blog/javascript-to-know-for-react) - Not just for React, but useful crash course in the most useful features in modern JS.
 4. **An introduction to functional programming in JavaScript** (https://opensource.com/article/17/6/functional-javascript) - Longer article giving a crash course in functional programming style, which modern JS/frameworks is gravitating towards.
 5. **Thinking in React** (https://reactjs.org/docs/thinking-in-react.html) - From the React docs, but a good general workflow for web apps and a way to think about how plan building your application.
-6. **Composition vs Inheritance** (https://reactjs.org/docs/composition-vs-inheritance.html) - From the React docs, but a powerful pattern you can use in any framework or kind of code. Composability is all about making things more reusable and modular, like legos.
-7. **A Complete Guide to Grid** (https://css-tricks.com/snippets/css/complete-guide-grid/) - One of the most useful features in modern CSS, `display: grid` makes layout way easier.
+6. **Composition vs Inheritance** (https://reactjs.org/docs/composition-vs-inheritance.html) - From the React docs, but a powerful pattern you can use in any framework or kind of code. Composability is all about making things more reusable and modular, like legos. Why follow composition patterns? [Here's a nice explanation and example using a real layout's React code.](https://epicreact.dev/one-react-mistake-thats-slowing-you-down/)
+7. **A Complete Guide to Grid** (https://css-tricks.com/snippets/css/complete-guide-grid/) - One of the most useful features in modern CSS, `display: grid` makes layout way easier. Also, here's a [bonus article one some very tricky ways grid sometimes behaves in unexpected ways](https://daverupert.com/2017/09/breaking-the-grid/).
+8. **Clean Code Javascript** (https://github.com/ryanmcdermott/clean-code-javascript#introduction) - Learning how to write clean, understandable, and maintainable code is important when working in teams or by yourself. If it's easier to read, it's easier to make changes and easier to come back to. This is a good example filled resource of general JS practices to follow for writing professional code.
 
 ## Video
 
@@ -25,7 +26,7 @@ You cna learn by reading, watching, or doing with the resources below.
 2. **CSS Diner** (https://flukeout.github.io/) - Interactive game/training tool that teaches you almost all the CSS selectors you'll ever need.
 3. **Version Control with Git** (https://www.udacity.com/course/version-control-with-git--ud123) - Free online course with interactive exercises using real repositories and quizzes to teach you the essentials of Git.
 4. **Code Sandbox** (https://codesandbox.io/) - In browser code editor that lets you edit and share code snippets like jsbin, but with extra features letting you prototype code in all the most popular frontend frameworks--React, Vue, Angular, etc.
-5. **Browser Rendering Optimization** (https://www.udacity.com/course/browser-rendering-optimization--ud860) - Free online course with interactive challenges, video, & quizzes teaching you the basics of making your single page web app faster/more performant, using dev tools to diagnose problems, best practices, and common sources of slowdown. 
+5. **Browser Rendering Optimization** (https://www.udacity.com/course/browser-rendering-optimization--ud860) - Free online course with interactive challenges, video, & quizzes teaching you the basics of making your single page web app faster/more performant, using dev tools to diagnose problems, best practices, and common sources of slowdown. Although JS is not often the bottleneck in your code and 99% of the time you want to write for clarity/maintainability, it's useful to have a resource for optimizing your JavaScript if it is the source of slow down. [This article is a great guide on optimizing JS code efficiency.](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
 
 ## Software
 
