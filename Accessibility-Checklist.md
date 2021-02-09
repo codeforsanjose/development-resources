@@ -1,6 +1,10 @@
 # Accessibility Checklist
 
-## First, do you know what disabilities you are targeting, especially for your particular application's user base?
+Working Definition of Accessibility: 
+
+Ensuring everyone, regardless of physical or mental characteristics, is able to use an application.
+
+### First, do you know what accessibility gaps you are targeting, especially for your particular application's user base?
 
 * Cognitive
 * Physical
@@ -9,19 +13,21 @@
 
 # Recommended: Easier, But High Value Accessibility Enhancements
 
+* Semantic HTML
 * Font Size
 * Color Contrast Ratio
 * Alt Tags on Images
-* Semantic HTML
 * Headings
 
 # Harder Accessibility Enhancements
 
+* Large click targets
 * Zoom
 * Keyboard Navigation
 * WAI-ARIA attributes
 * Limiting animation/motion
 * Video captions
+* Fully semantic page structure
 
 # Resources
 
