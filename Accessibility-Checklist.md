@@ -35,3 +35,4 @@ Ensuring everyone, regardless of physical or mental characteristics, is able to 
 * https://kb.rice.edu/page.php?id=93992#fruit
 * https://www.w3.org/WAI/ER/tools/
 * Lighthouse - Auditing tool integrated in Chrome DevTools checks for some accessibility compliance issues
+* [W3C Acccessibility Training](https://www.edx.org/course/web-accessibility-introduction) - Official and free accessibility training from the W3C, the governing body of web standards
