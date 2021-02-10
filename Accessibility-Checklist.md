@@ -15,7 +15,7 @@ This info is useful in prioritizing what to do *first*.
 
 [Read explanations and examples of abilities and barriers here.](https://www.w3.org/WAI/people-use-web/abilities-barriers/)
 
-# Recommended: Easier, But High Value Accessibility Enhancements
+## Recommended: Easier, But High Value Accessibility Enhancements
 
 * [Headings](https://accessibility.iu.edu/creating-content/web-content/headings.html) - Content should be broken up by headings in `h` elements to make pages easy to navigate/scan
 * [Meaningful, Descriptive Link Text](https://webaim.org/techniques/hypertext/link_text) - Don't use meaningless phrases like "Click Here" for your link text, it should describe what the link actually goes to
@@ -25,7 +25,7 @@ This info is useful in prioritizing what to do *first*.
 * [Alt Tags on Images](https://www.w3.org/WAI/tutorials/images/tips/) - All images should have `alt` tags filled out describing the purpose of the image
 * [Large click targets](https://www.a11yproject.com/posts/2018-11-21-large-touch-targets) - 44px by 44px minimum size for clickable things, with a few exceptions such as inline text links
 
-# Harder Accessibility Enhancements
+## Harder Accessibility Enhancements
 
 * Zoom - Layout doesn't break when zooming, allows zooming to 200%+
 * Keyboard Navigation - User can use essential functions and navigate page with keyboard, not getting stuck on an element
@@ -34,7 +34,7 @@ This info is useful in prioritizing what to do *first*.
 * Video captions - Full text captions and transcripts for video content
 * [Fully semantic page structure and content flow](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html) - Content is organized in a way that can be flowed through in a way that makes sense by assistive technologies with all parts using meaningful elements
 
-# Resources
+## Resources
 
 * [Automated Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 * [Low Hanging Fruit of Web Accessibility](https://kb.rice.edu/page.php?id=93992#fruit)
