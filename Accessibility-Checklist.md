@@ -1,4 +1,4 @@
-# Accessibility Checklist
+# :heart: Accessibility Checklist
 
 Working Definition of Accessibility: 
 
