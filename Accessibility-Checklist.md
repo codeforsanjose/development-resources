@@ -15,17 +15,21 @@ This info is useful in prioritizing what to do *first*.
 
 [Read explanations and examples of abilities and barriers here.](https://www.w3.org/WAI/people-use-web/abilities-barriers/)
 
-## Recommended: Easier, But High Value Accessibility Enhancements
+## Recommended: Easier Accessibility Enhancements
+
+Click links for further reading on an enhancement.
 
 * [Headings](https://accessibility.iu.edu/creating-content/web-content/headings.html) - Content should be broken up by headings in `h` elements to make pages easy to navigate/scan
 * [Meaningful, Descriptive Link Text](https://webaim.org/techniques/hypertext/link_text) - Don't use meaningless phrases like "Click Here" for your link text, it should describe what the link actually goes to
-* [Semantic HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) - Minimize use of meaningless `div` and `span` elements, use semantic elements like `section` or `nav` instead
+* [Semantic, Valid HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) - Minimize use of meaningless `div` and `span` elements, use semantic elements like `section` or `nav` instead. Make sure your HTML validates to modern specs
 * [Font Size & Readability](https://webaim.org/techniques/fonts/) - Unofficial mininum 16px font size for body text, but also watch out for your text readability dependent on styling
 * [Color Contrast Ratio](https://webaim.org/articles/contrast/) - 4.5:1 minimum contrast ratio, though aim for better. Ensure your text color isn't too close to your background color, making it hard to read. Some exceptions apply for large text
 * [Alt Tags on Images](https://www.w3.org/WAI/tutorials/images/tips/) - All images should have `alt` tags filled out describing the purpose of the image
-* [Large click targets](https://www.a11yproject.com/posts/2018-11-21-large-touch-targets) - 44px by 44px minimum size for clickable things, with a few exceptions such as inline text links
+* [Large Click Targets](https://www.a11yproject.com/posts/2018-11-21-large-touch-targets) - 44px by 44px minimum size for clickable things, with a few exceptions such as inline text links
+* [Remove Images Of Text](https://accessibility.princeton.edu/how/content/images-text) - Use actual HTML text instead of using an image of text--text in images cannot be understood by assistive technologies
+* [Don't Hide Focus Indicator](https://web.accessibility.duke.edu/learn/focus-indicator) - It's possible to remove/override the default browser focus indicator with the CSS `:focus` pseudo element or `outline: 0;` style, which can make it difficult to see what element is active
 
-## Harder Accessibility Enhancements
+## Higher Effort Accessibility Enhancements
 
 * Zoom - Layout doesn't break when zooming, allows zooming to 200%+
 * Keyboard Navigation - User can use essential functions and navigate page with keyboard, not getting stuck on an element
@@ -33,6 +37,8 @@ This info is useful in prioritizing what to do *first*.
 * Limiting animation/motion - Minimize use of animation or allow user to control if animation is used
 * Video captions - Full text captions and transcripts for video content
 * [Fully semantic page structure and content flow](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html) - Content is organized in a way that can be flowed through in a way that makes sense by assistive technologies with all parts using meaningful elements
+* Increase readability, simplify language - Complex sentences and words can create issues with reading and understanding your content, especially for users with disabilities
+* Use indicators in addition to color - Sometimes items are only color coded in your user interface. Items should have another differentiator such as an icon or descriptive text as a backup
 
 ## Resources
 
