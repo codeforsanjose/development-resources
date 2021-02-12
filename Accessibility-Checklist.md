@@ -31,14 +31,14 @@ Click links for further reading on an enhancement.
 
 ## Higher Effort Accessibility Enhancements
 
-* Zoom - Layout doesn't break when zooming, allows zooming to 200%+
-* Keyboard Navigation - User can use essential functions and navigate page with keyboard, not getting stuck on an element
-* WAI-ARIA attributes - Used to describe elements and states to accessibility software
-* Limiting animation/motion - Minimize use of animation or allow user to control if animation is used
+* [Zoom](https://usability.yale.edu/web-accessibility/articles/zoom-resizing-text) - Layout doesn't break and content stays visible when zooming using browser, allows zooming to 200%+
+* [Keyboard Navigation](https://www.nngroup.com/articles/keyboard-accessibility/) - User can use essential functions--especially forms--and navigate page with keyboard, not getting stuck on an element
+* [WAI-ARIA attributes](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics) - Used to describe elements and states to accessibility software
+* [Limiting animation/motion](https://css-tricks.com/accessible-web-animation-the-wcag-on-animation-explained/) - Minimize use of animation, allow user to control/disable if animation is used
 * Video captions - Full text captions and transcripts for video content
-* [Fully semantic page structure and content flow](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html) - Content is organized in a way that can be flowed through in a way that makes sense by assistive technologies with all parts using meaningful elements
-* Increase readability, simplify language - Complex sentences and words can create issues with reading and understanding your content, especially for users with disabilities
-* Use indicators in addition to color - Sometimes items are only color coded in your user interface. Items should have another differentiator such as an icon or descriptive text as a backup
+* [Fully semantic elements and information structure](https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-sequence.html) - Content is organized intuitively, sensibly, in understandable chunks for both humans and assistive technologies with all parts using meaningful elements
+* [Increase readability, simplify language](https://css-tricks.com/accessible-web-animation-the-wcag-on-animation-explained/) - Complex, long sentences and words can create issues with reading and understanding your content, especially for users with disabilities
+* [Don't Rely On Only Color as a Differentiator](https://www.smashingmagazine.com/2016/06/improving-color-accessibility-for-color-blind-users/) - Colorblind users can have difficulty differentiating items solely based on color. Sometimes items are only color coded in your user interface. Items should have another differentiator such as an icon or descriptive text as a backup
 
 ## Resources
 
