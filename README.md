@@ -1,6 +1,6 @@
 ![Frontend Development Resources - Retrowave Style Logo](frontend-resources-logo-retrowave.jpg)
 
-# :cake: Development Resources
+# :cake: Frontend Development Resources
 
 Resources for frontend developers to learn, improve, and grow. Programming paradigms recommended for modern web development. Useful tools and software.
 
