@@ -20,7 +20,7 @@ This info is useful in prioritizing what to do *first*.
 Click links for further reading on an enhancement.
 
 * [Headings](https://accessibility.iu.edu/creating-content/web-content/headings.html) - Content should be broken up by headings in `h` elements to make pages easy to navigate/scan
-* [Meaningful, Descriptive Link Text](https://webaim.org/techniques/hypertext/link_text) - Don't use meaningless phrases like "Click Here" for your link text, it should describe what the link actually goes to
+* [Meaningful, Descriptive, Obvious Links & Text](https://webaim.org/techniques/hypertext/link_text) - Don't use meaningless phrases like "Click Here" for your link text, it should describe what the link actually goes to. Also make sure links/clickable things are obvious.
 * [Semantic, Valid HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) - Minimize use of meaningless `div` and `span` elements, use semantic elements like `section` or `nav` instead. Make sure your HTML validates to modern specs
 * [Font Size & Readability](https://webaim.org/techniques/fonts/) - Unofficial mininum 16px font size for body text, but also watch out for your text readability dependent on styling
 * [Color Contrast Ratio](https://webaim.org/articles/contrast/) - 4.5:1 minimum contrast ratio, though aim for better. Ensure your text color isn't too close to your background color, making it hard to read. Some exceptions apply for large text
