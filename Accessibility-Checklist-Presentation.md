@@ -1,12 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
 ## Background
 
 * Practical, actionable, short checklist for busy developers
 * Low hanging fruit for immediate accessibility gains
 * Perfect is the enemy of done--incremental improvements are more likely to implemented
-* Not meant to be comprehensive
-* Not a substitute for a full accessibility audit
+* Not meant to be comprehensive--not a substitute for a full accessibility audit
 * Living document--work in progress, open to improvements/contributions
-* https://github.com/codeforsanjose/development-resources/blob/main/Accessibility-Checklist.md
+  
+* https://github.com/codeforsanjose/development-resources/
 
 
 
@@ -299,6 +310,7 @@ NO:
    </div>
 </div>
 
+
 YES:
 
 <nav>
@@ -365,12 +377,19 @@ Unofficial mininum 16px font size for body text, but also watch out for your tex
 
 ```
 NO:
+
 p {
   /* Small text looks super sophisticated! */
   font-size: 6px;
+  /* Maximum density, maximum info, that's how it works right? */
+  line-height: 0.1;
+  /* Why? */
+  letter-spacing: 20rem;
 }
 
 <p>No one can read this!</p>
+
+<blink>This is super annoying to read</blink>
 
 ```
 
@@ -433,6 +452,10 @@ body {
   background: white;
   /* Light gray text on a white background is the pinnacle of class and elegance */
   color: #ccc;
+}
+
+p {
+  opacity: 0.3;
 }
 
 <p>Strain your eyes to read this please; I detest eyes.</p>
@@ -570,6 +593,7 @@ Use actual HTML text instead of using an image of text--text in images cannot be
 ```
 NO:
 
+<!-- This is going to be our 10mb hi-res main logo image! -->
 <img src="SPIDERS_TITLE_TEXT.png" />
 
 YES:
