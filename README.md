@@ -16,6 +16,7 @@ You can learn by reading, watching, or doing with the resources below.
 6. **Composition vs Inheritance** (https://reactjs.org/docs/composition-vs-inheritance.html) - From the React docs, but a powerful pattern you can use in any framework or kind of code. Composability is all about making things more reusable and modular, like legos. Why follow composition patterns? [Here's a nice explanation and example using a real layout's React code.](https://epicreact.dev/one-react-mistake-thats-slowing-you-down/)
 7. **A Complete Guide to Grid** (https://css-tricks.com/snippets/css/complete-guide-grid/) - One of the most useful features in modern CSS, `display: grid` makes layout way easier. Also, here's a [bonus article one some very tricky ways grid sometimes behaves in unexpected ways](https://daverupert.com/2017/09/breaking-the-grid/).
 8. **Clean Code Javascript** (https://github.com/ryanmcdermott/clean-code-javascript#introduction) - Learning how to write clean, understandable, and maintainable code is important when working in teams or by yourself. If it's easier to read, it's easier to make changes and easier to come back to. This is a good example filled resource of general JS practices to follow for writing professional code.
+9. **How to Test React Components: The Complete Guide** (https://www.freecodecamp.org/news/testing-react-hooks/) - Longish article, but nicely distilled tutorial covering all the basics of a confusing subject: implemnting testing into a React project. Many good resource links at the end.
 
 ## :tv: Video
 
