@@ -30,6 +30,7 @@ You can learn by reading, watching, or doing with the resources below.
 3. **Version Control with Git** (https://www.udacity.com/course/version-control-with-git--ud123) - Free online course with interactive exercises using real repositories and quizzes to teach you the essentials of Git.
 4. **Code Sandbox** (https://codesandbox.io/) - In browser code editor that lets you edit and share code snippets like jsbin, but with extra features letting you prototype code in all the most popular frontend frameworks--React, Vue, Angular, etc.
 5. **Browser Rendering Optimization** (https://www.udacity.com/course/browser-rendering-optimization--ud860) - Free online course with interactive challenges, video, & quizzes teaching you the basics of making your single page web app faster/more performant, using dev tools to diagnose problems, best practices, and common sources of slowdown. Although JS is not often the bottleneck in your code and 99% of the time you want to write for clarity/maintainability, it's useful to have a resource for optimizing your JavaScript if it is the source of slow down. [This article is a great guide on optimizing JS code efficiency.](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/)
+6. **How To GraphQL** (https://www.howtographql.com/) - Free and open source full stack tutorial to get you up to speed on the latest innovation in API world, Graph QL! Contains custom paths for learning both the frontend and backend side of Graph QL.
 
 ## :computer: Software
 
