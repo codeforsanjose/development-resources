@@ -17,6 +17,7 @@ You can learn by reading, watching, or doing with the resources below.
 7. **A Complete Guide to Grid** (https://css-tricks.com/snippets/css/complete-guide-grid/) - One of the most useful features in modern CSS, `display: grid` makes layout way easier. Also, here's a [bonus article one some very tricky ways grid sometimes behaves in unexpected ways](https://daverupert.com/2017/09/breaking-the-grid/).
 8. **Clean Code Javascript** (https://github.com/ryanmcdermott/clean-code-javascript#introduction) - Learning how to write clean, understandable, and maintainable code is important when working in teams or by yourself. If it's easier to read, it's easier to make changes and easier to come back to. This is a good example filled resource of general JS practices to follow for writing professional code.
 9. **How to Test React Components: The Complete Guide** (https://www.freecodecamp.org/news/testing-react-hooks/) - Longish article, but nicely distilled tutorial covering all the basics of a confusing subject: implemnting testing into a React project. Many good resource links at the end.
+10. **How to Write a Git Commit Message** (https://cbea.ms/git-commit/) - A guide on writing useful, concise git commit messages. Important for reading git logs!
 
 ## :tv: Video
 
@@ -38,3 +39,8 @@ You can learn by reading, watching, or doing with the resources below.
 2. **Atom** (https://atom.io/) - Another free modern full featured IDE for web development with many plugins available.
 3. **Oh My Zsh** (https://ohmyz.sh/) - Makes your terminal look super spiffy and way more usable, with git shortcuts included out of the box. Many themes available. Mac/Linux only, though it is possible to use on Windows if you enable WSL [(Windows Subsystem for Linux)](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 4. **React Developer Tools** (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) - Available for Chrome and Firefox, useful browser extension that adds another tab to your browser Dev Tools specifically focused on your React app component structure/state
+
+## Advanced Resources
+
+1. **JS Web Frameworks Benchmark** (https://krausest.github.io/js-framework-benchmark/index.html) - Performance benchmarks in color coded tables for pretty much every frontend web framework.
+2. **HTTP Cats** (https://http.cat/) - Advanced stuff.
